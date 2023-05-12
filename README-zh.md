@@ -239,6 +239,7 @@ Awesome Mac
 * [trash](https://github.com/sindresorhus/trash) - 将文件和目录移动到废纸篓。 [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/trash)
 * [Upterm](https://github.com/railsware/upterm) - Upterm (之前是 Black Screen) 来自 21 世纪的强大终端。 ![Open-Source Software][OSS Icon]
 * [Zsh](https://www.zsh.org) - 一个专为交互式使用而设计的命令行 shell。 [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
+* [WindTerm](https://github.com/kingToolbox/WindTerm) - 一个更快更好的SSH/Telnet/Serial/Shell/Sftp客户端，专业的跨平台SSH/Sftp/Shell/Telnet/串行终端。 [![Open-Source Software][OSS Icon]](https://github.com/kingToolbox/WindTerm) ![Freeware][Freeware Icon]
 
 ### 版本控制
 
